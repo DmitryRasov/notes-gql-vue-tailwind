@@ -1,1 +1,1 @@
-https://cosmic-babka-9a196d.netlify.app/login
+https://cosmic-babka-9a196d.netlify.app/
